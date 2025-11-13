@@ -1,0 +1,20 @@
+.wrapper {
+	padding-block: 96px;
+}
+
+.searchWrapper {
+	margin-block-end: 24px;
+	width: 50%;
+	position: relative;
+}
+
+.clearBtn {
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+	border: none;
+	background: transparent;
+	cursor: pointer;
+	font-size: 24px;
+}
